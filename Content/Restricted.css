@@ -1,0 +1,9 @@
+﻿#divMessage {
+    position:relative;
+    top: 35%;
+    left: 35%;
+    width: 70%;
+    color: maroon;
+    font-style: italic;
+    font-size: 20px;
+}
